@@ -1,0 +1,4 @@
+#SPDX-License-Identifier: MIT-0
+---
+- include_tasks: select_agent.yml
+# tasks file for roles/minio_bucket_manager
